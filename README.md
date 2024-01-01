@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yousefQJ19
 - 👀 I’m interested in web dev/ software dev
-- 🌱 I’m currently learning c++/js
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on web dev
 - 📫 How to reach me  yousefxnsa
 
